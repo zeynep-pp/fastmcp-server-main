@@ -30,6 +30,7 @@ Test the server with the included client:
 
 ```bash
 uv run client_test.py
+fastmcp run client_test.py:mcp
 ```
 
 ## Project Structure
